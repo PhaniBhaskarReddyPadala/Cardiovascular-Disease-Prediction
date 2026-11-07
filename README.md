@@ -223,6 +223,5 @@ Three classification algorithms were implemented and compared. Logistic Regressi
 
 ## Author
 
-**[Your Name]**
+Padala Phani Bhaskara Reddy
 
-**GitHub:** [Your GitHub Profile URL]
